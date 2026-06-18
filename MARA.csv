@@ -1,0 +1,6 @@
+﻿Client,MaterialNumber,CreatedOn,CreatedBy,Volume,LastUpdatedTimestamp,MaterialType,MaterialGroup,UnitOfMeasure,Weight,Plant,Status,Country,Currency,Price
+100,MAT1001,01-05-2025,Ashwini,120,15-06-2026 10:00,FERT,FG001,EA,12.5,PL01,Active,India,INR,1500
+100,MAT1002,02-05-2025,Ashwini,140,14-06-2026 09:15,ROH,RM001,KG,20.1,PL01,Active,India,INR,2500
+100,MAT1003,03-05-2025,Rahul,160,13-06-2026 11:30,HALB,SF001,EA,8.7,PL02,Active,India,INR,1800
+100,MAT1004,04-05-2025,Priya,180,12-06-2026 15:45,FERT,FG002,EA,10.2,PL02,Inactive,India,INR,2100
+100,MAT1005,05-05-2025,Neha,200,11-06-2026 08:00,ROH,RM002,L,25,PL03,Active,India,INR,3000

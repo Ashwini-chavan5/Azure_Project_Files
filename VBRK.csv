@@ -1,0 +1,11 @@
+﻿VBELN,FKART,FKDAT,KUNRG,WAERK,NETWR,VKORG,VTWEG,SPART,ERNAM,BillingStatus,Region,SalesOffice,PaymentTerms,LastUpdatedTimestamp
+900000001,F2,15-06-2026,C1001,INR,12000,1000,10,1,Ashwini,Completed,West,Mumbai,30D,15-06-2026 10:00
+900000002,F2,14-06-2026,C1002,INR,15000,1000,10,1,Rahul,Completed,North,Delhi,30D,14-06-2026 11:00
+900000003,F2,13-06-2026,C1003,INR,18000,2000,20,2,Priya,Pending,South,Chennai,45D,13-06-2026 09:00
+900000004,F2,12-06-2026,C1004,INR,22000,2000,20,2,Neha,Completed,West,Pune,30D,12-06-2026 14:00
+900000005,F2,11-06-2026,C1005,INR,25000,1000,10,1,Amit,Pending,East,Kolkata,60D,11-06-2026 16:00
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+﻿CostID,ProductID,MaterialCost,LabourCost,OverheadCost,PackingCost,TransportCost,TotalCost,EffectiveDate,Currency,Plant,Region,Status,ApprovedBy,LastUpdatedTimestamp
+C1001,P1001,35000,5000,2000,500,1000,43500,01-01-2026,INR,PL01,West,Approved,Manager1,15-06-2026 10:00
+C1002,P1002,900,200,100,50,25,1275,01-01-2026,INR,PL01,North,Approved,Manager2,14-06-2026 11:00
+C1003,P1003,450,100,75,25,15,665,01-01-2026,INR,PL02,South,Approved,Manager3,13-06-2026 09:00
+C1004,P1004,8000,1500,700,200,100,10500,01-01-2026,INR,PL02,West,Pending,Manager4,12-06-2026 14:00
+C1005,P1005,9000,2000,1000,250,150,12400,01-01-2026,INR,PL03,East,Approved,Manager5,11-06-2026 08:00
